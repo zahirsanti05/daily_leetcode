@@ -4,6 +4,8 @@
 
 # day: June 17th
 
+# Medium
+
 class Solution(object):
     def divideArray(self, nums, k):
         """

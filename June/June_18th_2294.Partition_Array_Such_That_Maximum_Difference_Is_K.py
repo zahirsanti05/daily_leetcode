@@ -4,6 +4,8 @@
 
 # day: June 18th
 
+# Medium
+
 
 class Solution(object):
     def partitionArray(self, nums, k):

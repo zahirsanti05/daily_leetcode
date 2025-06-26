@@ -4,6 +4,8 @@
 
 # day: June 23th
 
+# Easy
+
 
 class Solution(object):
     def findKDistantIndices(self, nums, key, k):
