@@ -6,6 +6,9 @@
 
 # Easy
 
+import heapq
+from collections import defaultdict
+
 class Solution(object):
     def findLHS(self, nums):
         """
