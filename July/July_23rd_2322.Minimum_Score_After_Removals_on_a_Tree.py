@@ -7,6 +7,7 @@
 
 # Hard
 
+from collections import defaultdict
 class Solution(object):
     def minimumScore(self, nums, edges):
         """
